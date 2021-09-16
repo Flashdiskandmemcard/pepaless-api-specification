@@ -1,0 +1,12 @@
+openapi: 3.0.0
+info:
+  version: 1.0.0
+  title: ''
+  description: ''
+  license:
+    name: GPL V2
+paths: {}
+servers:
+  # Added by API Auto Mocking Plugin
+  - description: SwaggerHub API Auto Mocking
+    url: https://virtserver.swaggerhub.com/pepaless/pepaless-api-specification/1.0.0
